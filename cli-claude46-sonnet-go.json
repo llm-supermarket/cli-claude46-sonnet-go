@@ -1,11 +1,11 @@
 {
   "homepage": "https://github.com/llm-supermarket/cli-claude46-sonnet-go",
   "description": "CLI tool for rclone-compatible file encryption and decryption",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/llm-supermarket/cli-claude46-sonnet-go/releases/download/v0.0.0/cli-claude46-sonnet-go-windows-amd64.exe",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "url": "https://github.com/llm-supermarket/cli-claude46-sonnet-go/releases/download/v1.0.0/cli-claude46-sonnet-go-windows-amd64.exe",
+      "hash": "444933b723024fb56094d687735d22aa1e7194157da85cf1f261c20767898adb",
       "bin": [
         [
           "cli-claude46-sonnet-go-windows-amd64.exe",
